@@ -1,0 +1,1 @@
+The speed of each wheel will be dependent on steering angle, wheel base and track with of the car. To calculate this a python program is included wheel-speed.py. It can calculate the wheel speed for each wheel and is also able to do this for cars with 4 wheel steering.
